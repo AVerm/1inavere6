@@ -1,0 +1,57 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#header-box {
+	background-image: linear-gradient(to bottom, #FFFFFF60, #FFFFFF60), url('/assets/images/menu-image.jpg');
+	background-attachment: fixed;
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top: 3em;
+	padding-bottom: 3em;
+}
+
+#header-box * {
+	text-align: center;
+	vertical-align: middle;
+}
+
+#header-box > h1 {
+	font-size: 4em;
+}
+
+#header-box > h2 {
+	font-size: 2em;
+}
+
+#header-box menu {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	padding: 0px;
+}
+
+#header-box menu > li {
+	list-style-type: none;
+}
+
+#header-box menu > li > a {
+	outline: 1px solid black;
+	color: black;
+	background-color: white 40%;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#header-box menu > li > a:hover {
+	background: black;
+	color: white;
+	mix-blend-mode: multiply;
+}
+
+.interpunct {
+	font-size: 0.5em;
+	display: inline-block;
+}
