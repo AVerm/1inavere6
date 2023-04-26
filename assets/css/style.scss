@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+#header-box p {
+	margin: unset;
+	margin-block-start: unset;
+	margin-block-end: unset;
+}
+
 #header-box {
 	background-image: linear-gradient(to bottom, #FFFFFF60, #FFFFFF60), url('/assets/images/menu-image.jpg');
 	background-attachment: fixed;
@@ -10,12 +16,17 @@
 	background-repeat: no-repeat;
 	background-position: center;
 	padding-top: 3em;
-	padding-bottom: 3em;
+	padding-bottom: 1em;
 }
 
 #header-box * {
 	text-align: center;
 	vertical-align: middle;
+}
+
+#header-box > * {
+	padding-top: 5pt;
+	padding-bottom: 5pt;
 }
 
 #header-box > #date {
@@ -28,11 +39,11 @@
 	font-weight: bold;
 }
 
-#header-box menu {
+#header-box > menu {
 	display: flex;
 	justify-content: space-around;
 	flex-wrap: wrap;
-	padding: 0px;
+	padding-inline-start: unset;
 }
 
 #header-box menu > li {
