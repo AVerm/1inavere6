@@ -4,12 +4,6 @@
 @import "{{ site.theme }}";
 
 #header-box {
-	p {
-		margin: unset;
-		margin-block-start: unset;
-		margin-block-end: unset;
-	}
-
 	background-image: linear-gradient(to bottom, #FFFFFF60, #FFFFFF60), url('/assets/images/menu-image.jpg');
 	background-attachment: fixed;
 	background-size: auto 100%;
@@ -17,6 +11,12 @@
 	background-position: center;
 	padding-top: 3em;
 	padding-bottom: 1em;
+
+	p {
+		margin: unset;
+		margin-block-start: unset;
+		margin-block-end: unset;
+	}
 
 	* {
 		text-align: center;
