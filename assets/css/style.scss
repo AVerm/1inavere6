@@ -51,6 +51,8 @@
 }
 
 #header-box menu > li > a {
+	/* Needed to have parent <li> respect padding */
+	display: inline-block;
 	outline: 1px solid black;
 	color: black;
 	text-decoration: none;
