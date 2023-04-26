@@ -3,13 +3,13 @@
 
 @import "{{ site.theme }}";
 
-#header-box p {
-	margin: unset;
-	margin-block-start: unset;
-	margin-block-end: unset;
-}
-
 #header-box {
+	p {
+		margin: unset;
+		margin-block-start: unset;
+		margin-block-end: unset;
+	}
+
 	background-image: linear-gradient(to bottom, #FFFFFF60, #FFFFFF60), url('/assets/images/menu-image.jpg');
 	background-attachment: fixed;
 	background-size: auto 100%;
@@ -17,77 +17,71 @@
 	background-position: center;
 	padding-top: 3em;
 	padding-bottom: 1em;
+
+	* {
+		text-align: center;
+		vertical-align: middle;
+	}
+
+	> * {
+		padding-top: 5pt;
+		padding-bottom: 5pt;
+	}
+
+	> #date {
+		font-size: 4em;
+		font-weight: bold;
+	}
+
+	> #names {
+		font-size: 2em;
+		font-weight: bold;
+	}
+
+	> menu {
+		display: flex;
+		justify-content: space-around;
+		flex-wrap: wrap;
+		padding-inline-start: unset;
+		gap: 5pt;
+	}
+
+	menu > li {
+		list-style-type: none;
+
+		> a {
+			/* Needed to have parent <li> respect padding */
+			display: inline-block;
+			padding: 0.4em;
+			margin-left: 0.75em;
+			margin-right: 0.75em;
+			font-size: 1.25em;
+
+			outline: 1px solid black;
+			color: black;
+			text-decoration: none;
+			font-weight: bold;
+		}
+
+		> a:hover {
+			background: black;
+			color: white;
+			mix-blend-mode: multiply;
+		}
+	}
 }
 
-#header-box * {
-	text-align: center;
-	vertical-align: middle;
-}
+.faq {
+	> dt::before {
+		content: "Q: ";
+	}
 
-#header-box > * {
-	padding-top: 5pt;
-	padding-bottom: 5pt;
-}
-
-#header-box > #date {
-	font-size: 4em;
-	font-weight: bold;
-}
-
-#header-box > #names {
-	font-size: 2em;
-	font-weight: bold;
-}
-
-#header-box > menu {
-	display: flex;
-	justify-content: space-around;
-	flex-wrap: wrap;
-	padding-inline-start: unset;
-	gap: 5pt;
-}
-
-#header-box menu > li {
-	list-style-type: none;
-}
-
-#header-box menu > li > a {
-	/* Needed to have parent <li> respect padding */
-	display: inline-block;
-	outline: 1px solid black;
-	color: black;
-	text-decoration: none;
-	font-weight: bold;
-}
-
-#header-box menu > li > a:hover {
-	background: black;
-	color: white;
-	mix-blend-mode: multiply;
+	> dd::before {
+		content: "A: ";
+	}
 }
 
 .interpunct {
 	font-size: 0.5em;
 	display: inline-block;
-}
-
-#header-box > menu > li > a {
-	padding: 0.4em;
-}
-
-#header-box > menu > li > a {
-	margin-left: 0.75em;
-	margin-right: 0.75em;
-}
-
-#header-box > menu > li > a {
-	font-size: 1.25em;
-}
-
-.faq > dt::before {
-	content: "Q: ";
-}
-
-.faq > dd::before {
-	content: "A: ";
 }
