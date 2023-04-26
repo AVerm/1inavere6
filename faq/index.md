@@ -10,7 +10,7 @@ an Uber.
 
 Q: What do I wear?
 : A: The dress code is dressy cocktail hour, but you can check out
-more on our "What to Wear" page!
+more on [our "What to Wear" page](/what2wear)!
 
 
 
