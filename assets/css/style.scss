@@ -18,11 +18,12 @@
 	vertical-align: middle;
 }
 
-#header-box > h1 {
+#header-box > #date {
 	font-size: 4em;
+	font-weight: bold;
 }
 
-#header-box > h2 {
+#header-box > #names {
 	font-size: 2em;
 }
 
