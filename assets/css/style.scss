@@ -7,8 +7,8 @@
 #header-box {
 	/* The constant gradient white-tints the background but not the elements within this element */
 	background-image: linear-gradient(to bottom, #FFFFFF60, #FFFFFF60), url('/assets/images/menu-image.jpg');
-	background-attachment: fixed;
-	background-size: auto 100%;
+	background-attachment: scroll;
+	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 	/* Padding spaces contents nicely */
