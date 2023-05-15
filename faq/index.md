@@ -2,8 +2,6 @@
 title: FAQ
 ---
 
-{: .faq }
-
 Are kids invited?
 : Yes! When in doubt, your RSVP form should include the names of everyone in your party who is invited. If you believe we have made a mistake, let us know.
 
@@ -45,3 +43,5 @@ What the heck is a "[1inavere6](/)"?
 
 Who can I contact if I have any more questions?
 : We tried our best to answer everything on this website, but if you have any other questions feel free to email ([oneinavere6@gmail.com](mailto:oneinavere6@gmail.com)) or call/text the bride ([602-361-1203](tel:6023611203)).
+
+{: .faq }
