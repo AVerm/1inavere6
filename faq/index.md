@@ -45,7 +45,3 @@ What the heck is a "[1inavere6](/)"?
 
 Who can I contact if I have any more questions?
 : We tried our best to answer everything on this website, but if you have any other questions feel free to email ([oneinavere6@gmail.com](mailto:oneinavere6@gmail.com)) or call/text the bride ([602-361-1203](tel:6023611203)).
-
-
-
-
