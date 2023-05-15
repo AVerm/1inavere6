@@ -1,3 +1,5 @@
-# What To Wear
+---
+title: What To Wear
+---
 
 (coming soon!)
