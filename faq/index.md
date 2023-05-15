@@ -2,7 +2,7 @@
 title: FAQ
 ---
 
-{.faq}
+{: .faq}
 
 Are kids invited?
 : Yes! When in doubt, your RSVP form should include the names of everyone in your party who is invited. If you believe we have made a mistake, let us know.
