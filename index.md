@@ -1,6 +1,10 @@
-# We can’t wait to celebrate with you!
+---
+title: Details
+---
 
-## Venue
+## We can’t wait to celebrate with you!
+
+### Venue
 
 Ovation Chicago
 
@@ -8,7 +12,7 @@ Ovation Chicago
 
 Chicago, IL 60612
 
-## Schedule
+### Schedule
 
 Ceremony ~ 3:30pm
 
