@@ -5,19 +5,19 @@ title: FAQ
 {: .faq}
 
 Are kids invited?
-: Yes! When in doubt, your RSVP form should include the names of everyone in your party who is invited. If you believe we have made a mistake, let us know.
+: Yes! When in doubt, your [RSVP form](/faq) should include the names of everyone in your party who is invited. If you believe we have made a mistake, let us know.
 
 Do I get a plus one?
 : Your RSVP form should include the names of everyone in your party who is invited. Unfortunately, we cannot add additional people beyond that. If you believe we have made a mistake, let us know.
 
-My name is wrong on my invite/RSVP form!
+My name is wrong on my invite/[RSVP form](/faq)!
 : Uh oh! We did our best to get everyone’s names right but we’re not always perfect. If your name is spelled wrong or you prefer a different name, let us know here.
 
 How should I get there? Where should I stay? Is there anywhere cool to visit in the area?
-: Check out our “Travel” page for all the details and the link to our hotel block!
+: Check out our [“Travel” page](/travel) for all the details and the link to our hotel block!
 
 What do I wear?
-: The dress code is dressy cocktail hour, but you can check out more on [our "What to Wear" page](/what2wear)!
+: The dress code is dressy cocktail hour, but you can check out more on our ["What to Wear" page](/what2wear)!
 
 It’s pretty cold in November, am I going to have to be outside?
 : The ceremony, cocktail hour, and reception are all inside at the same venue. You’ll have to walk to and from the car, of course, but once you’re inside you’ll be good to go!
@@ -29,10 +29,10 @@ Can I walk to the venue from my hotel?
 : The venue is not really within walking distance of any hotels, especially considering it is likely to be pretty cold. We highly recommend driving or Uber.
 
 What would you like for a gift?
-: We are so fortunate to already have all the plates, towels, sheets, etc. that we need (and really nice versions of them!). We also know that a lot of our guests are taking off work and spending money on plane tickets and hotels to attend the wedding. It’s cliché to say “your presence is present enough”, but we truly mean that and do not expect anyone to get us anything. However, if you really really want to get us something, you can check out [the “Registry” page](/registry).
+: We are so fortunate to already have all the plates, towels, sheets, etc. that we need (and really nice versions of them!). We also know that a lot of our guests are taking off work and spending money on plane tickets and hotels to attend the wedding. It’s cliché to say “your presence is present enough”, but we truly mean that and do not expect anyone to get us anything. However, if you really really want to get us something, you can check out the [“Registry” page](/registry).
 
 I have allergies/dietary restrictions. Will I be able to eat the food?
-: Make sure you include any allergies/dietary restrictions in the appropriate section on the RSVP form! We will do our best to accommodate everyone.
+: Make sure you include any allergies/dietary restrictions in the appropriate section on the [RSVP form](/rsvp)! We will do our best to accommodate everyone.
 
 Will there be an open bar?
 : Yep!
