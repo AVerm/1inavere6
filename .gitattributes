@@ -1,1 +1,4 @@
+# Linguist override so that markdown shows up in "Languages" box
+# This doesn't do anything to the output but it's fun for me
+*.md linguist-detectable=true
 assets/videos/* filter=lfs diff=lfs merge=lfs -text
