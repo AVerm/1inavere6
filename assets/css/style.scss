@@ -3,6 +3,27 @@
 
 @import "{{ site.theme }}";
 
+@font-face {
+	font-family: "tenarblack";
+	src: url("/assets/fonts/TenarBlack-lglE0.otf") format("opentype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "pangeaafrikan";
+	src: url("/assets/fonts/PangeaAfrikanTrial-Bold.woff2") format("woff2"), url("/assets/fonts/PangeaAfrikanTrial-Bold.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "sanchezniu";
+	src: url("/assets/fonts/Latinotype - Sanchez Niu Regular.otf") format("opentype");
+	font-weight: normal;
+	font-style: normal;
+}
+
 /* Used in the common header */
 #header-box {
 	/* The constant gradient white-tints the background but not the elements within this element */
@@ -34,11 +55,13 @@
 	> #date {
 		font-size: 4em;
 		font-weight: bold;
+		font-family: "tenarblack";
 	}
 	/* Less big and bold */
 	> #names {
 		font-size: 2em;
 		font-weight: bold;
+		font-family: "tenarblack";
 	}
 	/* Arrange the contents */
 	> menu {
@@ -55,6 +78,7 @@
 		list-style-type: none;
 
 		> a {
+			font-family: "pangeaafrikan";
 			/* Needed to have parent <li> respect padding */
 			display: inline-block;
 			padding: 0.4em;
@@ -88,6 +112,10 @@
 	}
 }
 
+.markdown-body {
+	width: 64%;
+}
+
 /* Jazz up some hyphens */
 .interpunct {
 	font-size: 0.5em;
@@ -95,9 +123,11 @@
 }
 
 .img-chevron {
-	height: 6em;
+	width: 18%;
+	height: auto;
 }
 
 h1, h2, h3, h4, h5, h6 {
 	text-align: center;
+	font-family: "sancheznui";
 }
