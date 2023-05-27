@@ -1,8 +1,6 @@
 ---
-title: Details
+title: We can’t wait to celebrate with you!
 ---
-
-We can’t wait to celebrate with you!
 
 ## Venue
 
