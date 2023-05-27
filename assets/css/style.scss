@@ -122,6 +122,8 @@
 .img-chevron {
 	width: 18%;
 	height: 100%;
+	/* Stop following text from bumping into it */
+	margin-bottom: 0.5em;
 }
 
 #chevron-header {
