@@ -124,10 +124,11 @@
 	height: 100%;
 }
 
-.chevron-header {
+#chevron-header {
 	display: flex;
 	flex-flow: row nowrap;
 	justify-content: space-between;
+	align-items: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
