@@ -142,6 +142,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .markdown-body {
 	line-height: 1;
+	margin-bottom: 8em;
 	/* Make children 80% wide and centered but allow easy overrides */
 	/* There isn't really an elegant way to override the alternate: setting the width of the container */
 	> * {
