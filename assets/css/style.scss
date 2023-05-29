@@ -125,7 +125,7 @@
 }
 
 .img-chevron {
-	width: 18%;
+	width: 30%;
 	height: 100%;
 	/* Stop following text from bumping into it */
 	margin-bottom: 0.5em;
@@ -136,6 +136,9 @@
 	flex-flow: row nowrap;
 	justify-content: space-between;
 	align-items: center;
+	/* Forgive me */
+	width: 140%;
+	margin-left: -20%;
 }
 
 h1, h2, h3, h4, h5, h6 {
