@@ -1,3 +1,7 @@
+---
+title: Travel
+---
+
 (All the pictures should be cartoony/clipart)
 
 ## Getting There
