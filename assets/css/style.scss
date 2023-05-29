@@ -27,14 +27,19 @@
 /* Used in the common header */
 #header-box {
 	/* The constant gradient white-tints the background but not the elements within this element */
-	background-image: linear-gradient(to bottom, #FFFFFF60, #FFFFFF60), url('/assets/images/menu-image.jpg');
+	background-image: linear-gradient(to bottom, #FFFFFF60, #FFFFFF60), url('/assets/images/menu-look.jpg');
 	background-attachment: scroll;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: center;
+	background-position-x: 40%;
+	background-position-y: 75%;
 	/* Padding spaces contents nicely */
 	padding-top: 3em;
 	padding-bottom: 1em;
+	/* Fun change on hover */
+	:hover {
+		background-image: linear-gradient(to bottom, #FFFFFF60, #FFFFFF60), url('/assets/images/menu-kiss.jpg');
+	}
 	/* Get rid of crap that Firefox claims is part of the useragent */
 	p {
 		margin: unset;
