@@ -12,6 +12,9 @@ Chicago, IL 60612
 
 ## Schedule
 
+(Click [here](/assets/files/calendar.ics) to download a file that
+you can add to your calendar!)
+
 Ceremony ~ 3:30pm
 
 Cocktail Hour and Reception to Follow
