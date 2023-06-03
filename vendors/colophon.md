@@ -38,3 +38,16 @@ Encrypt](https://letsencrypt.org/)) thrown in, which is why the
 padlock next to the address bar is green and happy, not red and
 scary.
 This is a pretty cool feature.
+
+## Typefaces
+
+When making a website, it's important to remember that fonts cost
+money.
+A lot of fonts will offer samples for non-commercial use.
+We used 3 of these:
+
+- [Tenar Black Serif](https://befonts.com/tenar-black-serif-font.html): The loopy fun one at the very top in the navigation bar
+- [Pangea Afrikan](https://befonts.com/pangea-afrikan-font-family.html): A nice "Segoe UI Black"-like that is supposedly optimized for African charactersets (notice the ["ƙ"](https://en.wikipedia.org/wiki/%C6%98), a largely [Hausa](https://en.wikipedia.org/wiki/Hausa_language) letter so far as I know, in the display image for the font)
+- [Sanchez
+  Niu](https://befonts.com/sanchez-niu-font-family.html): A
+  pleasant and clean "Rockwell"-like
