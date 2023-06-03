@@ -28,7 +28,7 @@ However, if you plan to stay longer and check out more distant places, then you 
 
 We currently have a hotel block available at the Hyatt House Chicago / West Loop – Fulton Market, which is about a 6-8 minute drive from the venue.
 There are many hotels, restaurants, and shops right around there in the “Fulton Market” area.
-To book a room in the block, follow this link: Booking Link
+To book a room in the block, follow this link: Booking Link.
 If you would like to book a room but the block is full, or you have any other issues, please contact us right away ([oneinavere6@gmail.com](mailto:oneinavere6@gmail.com) or [602-361-1203](tel:6023611203)).
 We also recommend the Hoxton as another option, but we do not have a special block there.
 
