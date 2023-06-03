@@ -7,7 +7,7 @@ title: Colophon
 > typeface(s) used in the page design and the kind of ink, paper,
 > and its cotton content."
 
--- [Wikipedia, "Colophon (Publishing)"](https://en.wikipedia.org/wiki/Colophon_(publishing%29)
+-- [Wikipedia, "Colophon (Publishing)"](https://en.wikipedia.org/wiki/Colophon_%28publishing%29)
 
 ## Designer
 
