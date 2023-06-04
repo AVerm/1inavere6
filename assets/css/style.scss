@@ -154,3 +154,12 @@ h1, h2, h3, h4, h5, h6 {
 		margin-right: auto;
 	}
 }
+
+.photo-grid {
+	line-height: 0;
+	column-gap: 0px;
+	img {
+		padding: 5px;
+		max-width: 100%;
+	}
+}
