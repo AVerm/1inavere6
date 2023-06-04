@@ -160,6 +160,12 @@ h1, h2, h3, h4, h5, h6 {
 	column-gap: 0px;
 	padding: 0px !important;
 	column-count: 2;
+	@media (min-width: 25em) {
+		column-count: 3;
+	}
+	@media (min-width: 45em) {
+		column-count: 4;
+	}
 	> li {
 		list-style-type: none;
 		margin-top: 0px !important;
@@ -169,16 +175,4 @@ h1, h2, h3, h4, h5, h6 {
 		padding: 0.1em;
 		margin: 0px;
 	}
-}
-
-@media (min-width: 25em) {
-    .photo-grid {
-        column-count: 3;
-    }
-}
-
-@media (min-width: 45em) {
-    .photo-grid {
-        column-count: 4;
-    }
 }
