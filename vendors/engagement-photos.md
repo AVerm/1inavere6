@@ -5,6 +5,8 @@ title: Engagement Photos
 Here are some "web-sized" copies of our engagement photos.
 If I remember and decide it's a good idea, I'll make these point to full sized pictures later so you can click on them to download a huge one.
 
+These were shot by [Maura Black](https://maurablackphotography.squarespace.com/) and provided to us through [a very fancy website](https://maurablackphotography.pixieset.com/jaimeeandalexengagementsession/).
+
 {:.photo-grid}
 - ![ja-1.jpg](/assets/images/engagement_photos_web/ja-1.jpg)
 - ![ja-2.jpg](/assets/images/engagement_photos_web/ja-2.jpg)
