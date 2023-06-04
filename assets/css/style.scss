@@ -158,6 +158,9 @@ h1, h2, h3, h4, h5, h6 {
 .photo-grid {
 	line-height: 0;
 	column-gap: 0px;
+	li {
+		list-style-type: none;
+	}
 	img {
 		padding: 5px;
 		max-width: 100%;
