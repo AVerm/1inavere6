@@ -158,11 +158,27 @@ h1, h2, h3, h4, h5, h6 {
 .photo-grid {
 	line-height: 0;
 	column-gap: 0px;
-	li {
+	padding: 0px !important;
+	column-count: 2;
+	> li {
 		list-style-type: none;
+		margin-top: 0px !important;
 	}
-	img {
-		padding: 5px;
+	> * > img {
 		max-width: 100%;
+		padding: 0.1em;
+		margin: 0px;
 	}
+}
+
+@media (min-width: 25em) {
+    .photo-grid {
+        column-count: 3;
+    }
+}
+
+@media (min-width: 45em) {
+    .photo-grid {
+        column-count: 4;
+    }
 }
