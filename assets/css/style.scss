@@ -8,6 +8,7 @@
 	src: url("/assets/fonts/TenarBlack-lglE0.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
+	font-display: swap;
 }
 
 @font-face {
@@ -15,6 +16,7 @@
 	src: url("/assets/fonts/PangeaAfrikanTrial-Bold.woff2") format("woff2"), url("/assets/fonts/PangeaAfrikanTrial-Bold.woff") format("woff");
 	font-weight: normal;
 	font-style: normal;
+	font-display: swap;
 }
 
 @font-face {
@@ -22,6 +24,7 @@
 	src: url("/assets/fonts/Latinotype - Sanchez Niu Regular.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
+	font-display: swap;
 }
 
 /* Used in the common header */
