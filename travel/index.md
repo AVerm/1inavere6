@@ -2,18 +2,20 @@
 title: Travel
 ---
 
-(All the pictures should be cartoony/clipart)
+(The current pictures are watermarked; that is because I'm using
+them as placeholders while I figure out all the images I want to
+buy and buy them all at once)
 
 ## Getting There
 
-(Plane picture)
+![An airplane](/assets/images/travel/airplane.jpg)
 
 If you’re from out of state, the best airport to fly into is Chicago O’Hare Internation Airport (ORD).
 We suggest getting to the airport nice and early for your return flight, but if you find yourself with extra time inside we recommend looking for a Nuts on Clark (Alex's favorite place to by malt balls).
 
 ## Getting Around
 
-(Car picture)
+![A car](/assets/images/travel/car.jpg)
 
 Whether or not to rent a car probably depends on how much you want to do and where you want to go.
 If you’re going straight from the airport to your hotel and staying close to there, then you may want to just Uber/Lyft.
@@ -24,7 +26,7 @@ However, if you plan to stay longer and check out more distant places, then you 
 
 ## Getting Rest
 
-(Hotel picture)
+![A car](/assets/images/travel/hotel.jpg)
 
 We currently have a hotel block available at the Hyatt House Chicago / West Loop – Fulton Market, which is about a 6-8 minute drive from the venue.
 There are many hotels, restaurants, and shops right around there in the “Fulton Market” area.
@@ -36,7 +38,7 @@ We also recommend the Hoxton as another option, but we do not have a special blo
 
 ### For Fun
 
-(Chicago skyline picture)
+![The Chicago skyline](/assets/images/travel/skyline.jpg)
 
 Want to check out more of the city?
 We have a few places to recommend:
@@ -50,7 +52,7 @@ We have a few places to recommend:
 
 ### For Food
 
-(Food picture)
+![A hotdog in a plain bun with mustard](/assets/images/travel/hotdog.jpg)
 
 There are lots of great places to eat around the city, but here are a few suggestions:
 * Portillo’s (Hot Dogs/Sandwiches/Chicken)
