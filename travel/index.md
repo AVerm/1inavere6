@@ -8,14 +8,14 @@ buy and buy them all at once)
 
 ## Getting There
 
-![An airplane](/assets/images/travel/airplane.jpg)
+![An airplane](/assets/images/travel/airplane.jpg){: .illustration}
 
 If you’re from out of state, the best airport to fly into is Chicago O’Hare Internation Airport (ORD).
 We suggest getting to the airport nice and early for your return flight, but if you find yourself with extra time inside we recommend looking for a Nuts on Clark (Alex's favorite place to by malt balls).
 
 ## Getting Around
 
-![A car](/assets/images/travel/car.jpg)
+![A car](/assets/images/travel/car.jpg){: .illustration}
 
 Whether or not to rent a car probably depends on how much you want to do and where you want to go.
 If you’re going straight from the airport to your hotel and staying close to there, then you may want to just Uber/Lyft.
@@ -26,7 +26,7 @@ However, if you plan to stay longer and check out more distant places, then you 
 
 ## Getting Rest
 
-![A car](/assets/images/travel/hotel.jpg)
+![A car](/assets/images/travel/hotel.jpg){: .illustration}
 
 We currently have a hotel block available at the Hyatt House Chicago / West Loop – Fulton Market, which is about a 6-8 minute drive from the venue.
 There are many hotels, restaurants, and shops right around there in the “Fulton Market” area.
@@ -38,7 +38,7 @@ We also recommend the Hoxton as another option, but we do not have a special blo
 
 ### For Fun
 
-![The Chicago skyline](/assets/images/travel/skyline.jpg)
+![The Chicago skyline](/assets/images/travel/skyline.jpg){: .illustration}
 
 Want to check out more of the city?
 We have a few places to recommend:
@@ -52,7 +52,7 @@ We have a few places to recommend:
 
 ### For Food
 
-![A hotdog in a plain bun with mustard](/assets/images/travel/hotdog.jpg)
+![A hotdog in a plain bun with mustard](/assets/images/travel/hotdog.jpg){: .illustration}
 
 There are lots of great places to eat around the city, but here are a few suggestions:
 * Portillo’s (Hot Dogs/Sandwiches/Chicken)
