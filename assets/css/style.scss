@@ -125,7 +125,7 @@
 
 .img-chevron {
 	max-width: 30%;
-	max-height: 30vw;
+	max-height: min(30vw, 30vh);
 	/* Stop following text from bumping into it */
 	margin-bottom: 0.5em;
 }
