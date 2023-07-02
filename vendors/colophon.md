@@ -51,3 +51,15 @@ We used 3 of these:
 - [Sanchez
   Niu](https://befonts.com/sanchez-niu-font-family.html): A
   pleasant and clean "Rockwell"-like
+
+## Images
+
+We got some of our images from [Deposit
+Photos](https://depositphotos.com) through [a trial they run](https://depositphotos.com/subscribe/trial.html?id=6&product=membership&trial=1).
+
+* [Travel Airplane Vehicle International Transport Vector Illustration Stock Illustration by ©stockgiu #242372276](https://depositphotos.com/242372276/stock-illustration-travel-airplane-vehicle-international-transport.html)
+* [Cartoon Car Stock Illustration by ©VisualGeneration #8681192](https://depositphotos.com/8681192/stock-illustration-cartoon-car.html)
+* [Hotel icon, flat style Stock Vector by ©ylivdesign 127886096](https://depositphotos.com/127886096/stock-illustration-hotel-icon-flat-style.html)
+* [Chicago City Skyline Color Illustration Stock Illustration by ©jpldesigns #52636235](https://depositphotos.com/52636235/stock-illustration-chicago-city-skyline-color-illustration.html)
+* [Hot Dog Mustard Colorful Vector Cartoon Fast Food Hot Dog Stock Illustration by ©tsvetinaiv #207758070](https://depositphotos.com/207758070/stock-illustration-hot-dog-mustard-colorful-vector.html)
+* [Digital Watercolor Scene Chicago Cityscape River Side Illinois United States Stock Photo by ©Tzido 313656918](https://depositphotos.com/313656918/stock-photo-digital-watercolor-scene-chicago-cityscape.html)
