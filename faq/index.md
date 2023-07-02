@@ -10,7 +10,7 @@ Do I get a plus one?
 : Your RSVP form should include the names of everyone in your party who is invited. Unfortunately, we cannot add additional people beyond that. If you believe we have made a mistake, let us know.
 
 My name is wrong on my invite/[RSVP form](/faq)!
-: Uh oh! We did our best to get everyone’s names right but we’re not always perfect. If your name is spelled wrong or you prefer a different name, let us know here.
+: Uh oh! We did our best to get everyone’s names right but we’re not always perfect. If your name is spelled wrong or you prefer a different name, contact us!
 
 How should I get there? Where should I stay? Is there anywhere cool to visit in the area?
 : Check out our [“Travel” page](/travel) for all the details and the link to our hotel block!
