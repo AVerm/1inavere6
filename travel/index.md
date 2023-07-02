@@ -11,7 +11,7 @@ buy and buy them all at once)
 ![An airplane](/assets/images/travel/airplane.jpg){: .illustration}
 
 If you’re from out of state, the best airport to fly into is Chicago O’Hare Internation Airport (ORD).
-We suggest getting to the airport nice and early for your return flight, but if you find yourself with extra time inside we recommend looking for a Nuts on Clark (Alex's favorite place to by malt balls).
+We suggest getting to the airport nice and early for your return flight, but if you find yourself with extra time inside we recommend looking for a Nuts on Clark (Alex's favorite place to buy malt balls).
 
 ## Getting Around
 
