@@ -15,6 +15,8 @@ Chicago, IL 60612
 (Click [here](/assets/files/calendar.ics) to download a file that
 you can add to your calendar!)
 
-Ceremony ~ 3:15pm
+Guest arrival 2:45pm - 3:00pm
+
+Ceremony begins promptly at 3:15pm
 
 Cocktail Hour and Reception to Follow
