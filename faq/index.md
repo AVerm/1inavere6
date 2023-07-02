@@ -16,7 +16,7 @@ How should I get there? Where should I stay? Is there anywhere cool to visit in 
 : Check out our [“Travel” page](/travel) for all the details and the link to our hotel block!
 
 What do I wear?
-: The dress code is dressy cocktail hour, but you can check out more on our ["What to Wear" page](/what2wear)!
+: The dress code is "dressy cocktail attire", but you should check out more on our ["What to Wear" page](/what2wear) to get an idea what we're thinking about.
 
 It’s pretty cold in November, am I going to have to be outside?
 : The ceremony, cocktail hour, and reception are all inside at the same venue. You’ll have to walk to and from the car, of course, but once you’re inside you’ll be good to go!
