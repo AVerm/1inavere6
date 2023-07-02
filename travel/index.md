@@ -26,7 +26,7 @@ However, if you plan to stay longer and check out more distant places, then you 
 
 ## Getting Rest
 
-![A car](/assets/images/travel/hotel.png){: .illustration}
+![A hotel building](/assets/images/travel/hotel.png){: .illustration}
 
 We currently have a hotel block available at the Hyatt House Chicago / West Loop – Fulton Market, which is about a 6-8 minute drive from the venue.
 There are many hotels, restaurants, and shops right around there in the “Fulton Market” area.
