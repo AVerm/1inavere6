@@ -49,6 +49,8 @@ We have a few places to recommend:
 * Lincoln Park Zoo
 * Shedd Aquarium
 * Field Museum
+* Michigan Avenue
+* Millennium Park
 
 ### For Food
 
@@ -59,3 +61,7 @@ There are lots of great places to eat around the city, but here are a few sugges
 * Lou Malnati’s (Pizza)
 * Levain (Bakery near the Hyatt)
 * Sawada (Coffee near the Hyatt)
+* Time Out Market (multiple food places, reccommended by family
+  in the area)
+* Fulton Market (area near the hotels, contains Levain and
+  Sawada)
