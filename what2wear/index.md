@@ -27,9 +27,9 @@ Reminder: November in Chicago is cold, but everything will be indoors.
 
 {:.photo-grid}
 - ![suit01](/assets/images/w2w/suit01.png)
-- ![suit02](/assets/images/w2w/suit02_1.png)
-- ![suit02](/assets/images/w2w/suit02_2.png)
+- ![suit02](/assets/images/w2w/suit02_1.jpg)
+- ![suit02](/assets/images/w2w/suit02_2.jpg)
 - ![suit03](/assets/images/w2w/suit03.png)
 - ![suit04](/assets/images/w2w/suit04.png)
-- ![suit05](/assets/images/w2w/suit05_1.png)
-- ![suit05](/assets/images/w2w/suit05_2.png)
+- ![suit05](/assets/images/w2w/suit05_1.jpg)
+- ![suit05](/assets/images/w2w/suit05_2.jpg)
