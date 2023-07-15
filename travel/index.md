@@ -2,10 +2,6 @@
 title: Travel
 ---
 
-(The current pictures are watermarked; that is because I'm using
-them as placeholders while I figure out all the images I want to
-buy and buy them all at once)
-
 ## Getting There
 
 ![An airplane](/assets/images/travel/airplane.png){: .illustration}
