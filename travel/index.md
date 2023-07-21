@@ -61,3 +61,4 @@ There are lots of great places to eat around the city, but here are a few sugges
   in the area)
 * Fulton Market (area near the hotels, contains Levain and
   Sawada)
+* Sweet Mandy B's (Bakery with Cupcakes, Cookies, and More!)
