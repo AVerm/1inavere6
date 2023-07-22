@@ -40,7 +40,7 @@ The newly engaged couple finished school and then packed up all of their belongi
 - ![21_Graduation.jpg](/assets/images/love-story/21_Graduation.jpg)
 - ![22_KittenAdoption.jpg](/assets/images/love-story/22_KittenAdoption.jpg)
 - ![23_SunflowerField.jpg](/assets/images/love-story/23_SunflowerField.jpg)
-- ![24_MerryChristmas(/assets/images/love-story/Season)AtTheMall.jpg](24_MerryChristmas%28Season%29AtTheMall.jpg)
+- ![24_MerryChristmas(Season)AtTheMall.jpg](/assets/images/love-story/24_MerryChristmas%28Season%29AtTheMall.jpg)
 - ![25_KittenChristmasCard1.jpg](/assets/images/love-story/25_KittenChristmasCard1.jpg)
 - ![26_ChicagoArtMuseum.jpg](/assets/images/love-story/26_ChicagoArtMuseum.jpg)
 - ![27_HavreDeGrace.jpg](/assets/images/love-story/27_HavreDeGrace.jpg)
