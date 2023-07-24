@@ -39,8 +39,8 @@ Will there be an open bar?
 Can I take photos during the wedding and share them on social media?
 : Absolutely! Snap and share to your heart’s content. The only thing we ask is that you be cognizant of the professional photographers/videographer, especially during the ceremony. If you stand in the aisle to get the perfect shot of the first kiss, our photographer might miss it. We will be happy to share all the professional content as soon as we get it.
 
-What the heck is a "[1inavere6](/)"?
-: There are two parts to this. The first is scientific notation, specifically a format called ["E notation"](https://en.wikipedia.org/wiki/Scientific_notation#E_notation). A number that looks like "AeB" means "A and then B zeroes", and just "eB" means "1 and then B zeroes". That means "1inavere6" should instead say "1inaver1000000", which you might recognize as "1inavermillion", or a pun on "1 in a million" and "Vermillion", our soon-to-be last name.
+What the heck is a "[1inavere6](/)"? {: .vere6}
+: There are two parts to this. The first is scientific notation, specifically a format called ["E notation"](https://en.wikipedia.org/wiki/Scientific_notation#E_notation). A number that looks like "AeB" means "A and then B zeroes", so "1inavere6" should instead say "1inaver000000", which can be read as "1ina(ver1000000)", or "1 in a VerMillion", which is a last name we'll be sharing quite soon!
 
 Who can I contact if I have any more questions?
 : We tried our best to answer everything on this website, but if you have any other questions feel free to email ([oneinavere6@gmail.com](mailto:oneinavere6@gmail.com)) or call/text the bride ([602-361-1203](tel:6023611203)).
