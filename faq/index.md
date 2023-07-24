@@ -4,12 +4,12 @@ title: FAQ
 
 {: .faq}
 Are kids invited?
-: Yes! When in doubt, your [RSVP form](/faq) should include the names of everyone in your party who is invited. If you believe we have made a mistake, let us know.
+: Yes! When in doubt, your [RSVP form](/rsvp) should include the names of everyone in your party who is invited. If you believe we have made a mistake, let us know.
 
 Do I get a plus one?
 : Your RSVP form should include the names of everyone in your party who is invited. Unfortunately, we cannot add additional people beyond that. If you believe we have made a mistake, let us know.
 
-My name is wrong on my invite/[RSVP form](/faq)!
+My name is wrong on my invite/[RSVP form](/rsvp)!
 : Uh oh! We did our best to get everyone’s names right but we’re not always perfect. If your name is spelled wrong or you prefer a different name, contact us!
 
 How should I get there? Where should I stay? Is there anywhere cool to visit in the area?
