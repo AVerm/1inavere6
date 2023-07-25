@@ -10,7 +10,7 @@ DJ: [Style Matters](https://www.stylemattersdjs.com/)
 
 Caterers: [The Caterist](https://thecaterist.com/)
 
-Cake: TBD ([Sugar Fixé Patisserie](https://www.sugarfixe.com/))
+Cake: [Sugar Fixé Patisserie](https://www.sugarfixe.com/)
 
 ### Bride
 
