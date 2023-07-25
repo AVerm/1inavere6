@@ -2,13 +2,14 @@
  * slow cooker
  * pressure cooker
  * sous vide
+* [Amazon.com: Breville Bambino Plus Espresso Machine,64 Fluid Ounces, Brushed Stainless Steel, BES500BSS: Home & Kitchen](https://www.amazon.com/Breville-BES500BSS-Bambino-Espresso-Stainless/dp/B07JVD78TT/?th=1 "Amazon.com: Breville Bambino Plus Espresso Machine,64 Fluid Ounces, Brushed Stainless Steel, BES500BSS: Home & Kitchen")
+* [Amazon.com: Baratza Encore Conical Burr Coffee Grinder (Black) : Home & Kitchen](https://www.amazon.com/dp/B007F183LK "Amazon.com: Baratza Encore Conical Burr Coffee Grinder (Black) : Home & Kitchen")
 
 ---
 
 * Pasta maker (compare expensive kitchenaide to less expensive normal one)
 * Mixer accessories
 
-* espresso machine
 * bread machine
 * knives
 * mandolin (slicer)?
