@@ -7,13 +7,14 @@
 
 ---
 
-* Pasta maker (compare expensive kitchenaide to less expensive normal one)
 * Mixer accessories
-
-* bread machine
-* knives
-* mandolin (slicer)?
 * Jaimee says ice cream maker
+
+* knives
+
+* Pasta maker (compare expensive kitchenaide to less expensive normal one)
+* bread machine
+* mandolin (slicer)?
 * Dutch oven?
 * Immersion blender
 * Blender
