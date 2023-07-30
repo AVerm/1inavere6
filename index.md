@@ -12,6 +12,8 @@ Chicago, IL 60612
 
 ## Schedule
 
+Sunday, November 5, 2023
+
 (Click [here](/assets/files/calendar.ics) to download a file that
 you can add to your calendar!)
 
