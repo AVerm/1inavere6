@@ -16,10 +16,10 @@
 
 ---
 
-* mandolin (slicer)?
-* Dutch oven?
 * Immersion blender
-* Blender
-* Pizza stone/steel
+* Food processor
+* Carpet cleaner?
+* Greenpan sauce/pan
+* Blu-Ray Player
 
 https://www.crateandbarrel.com/assets/gift-registry/bonusgifts/LeCreuset_2021_Comp.pdf
