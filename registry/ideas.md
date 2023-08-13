@@ -21,5 +21,7 @@
 * Carpet cleaner?
 * Greenpan sauce/pan
 * Blu-Ray Player
+* Induction top
+* Fondue pot?
 
 https://www.crateandbarrel.com/assets/gift-registry/bonusgifts/LeCreuset_2021_Comp.pdf
