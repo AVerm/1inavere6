@@ -12,6 +12,8 @@ Caterers: [The Caterist](https://thecaterist.com/)
 
 Cake: [Sugar Fixé Patisserie](https://www.sugarfixe.com/)
 
+Day of Coordinator: Ana and assistant
+
 ### Bride
 
 Bride: Jaimee Andreotti (not for long!)
