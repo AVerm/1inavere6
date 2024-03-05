@@ -31,7 +31,7 @@ Month-of Coordinator: [Lionhearted Events Chicago](https://www.lionheartedevents
 ### Mementos
 
 Photography: [Maura Black Photography](https://maurablackphotography.squarespace.com/)
-- See engagement photos [here](/vendors/engagement-photos.html)
+- see engagement photos [here](/photos/engagement-photos.html)
 
 Videography: [This Is Feeling](https://thisisfeeling.com/video/)
 
