@@ -2,12 +2,7 @@
 title: Registry
 ---
 
-**(
-If you see this, we're still adding stuff to this!
-If you had your heart set on getting something,
-you can do whatever you want with the stuff on here,
-but we might be adding more stuff later
-)**
+**Closed!!!**
 
 We are so fortunate to already have all the plates, towels, sheets, etc. that we need (and really nice versions of them!).
 We also know that a lot of our guests are taking off work and spending money on plane tickets and hotels to attend the wedding.
