@@ -18,6 +18,6 @@ Sunday, November 5, 2023
 
 Guest arrival 2:45pm - 3:00pm
 
-Ceremony begins promptly at 3:15pm
+Ceremony <del>begins</del><ins>began</ins> promptly at 3:15pm
 
-Cocktail Hour and Reception to Follow
+Cocktail Hour and Reception <del>to Follow</del><ins>Followed</ins>
