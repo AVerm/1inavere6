@@ -21,3 +21,7 @@ Guest arrival 2:45pm - 3:00pm
 Ceremony <del>begins</del><ins>began</ins> promptly at 3:15pm
 
 Cocktail Hour and Reception <del>to Follow</del><ins>Followed</ins>
+
+## Extras
+
+*[A sneaky link to our first dance song](https://musescore.com/user/388416/scores/3517876)*
